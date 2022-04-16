@@ -3,14 +3,15 @@ Welcome to my University of Calgary Statistics Tutorials Page. Here you can find
 
 ### STAT 217
 #### Comparing Means 
-* Pooled t-test 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-D3DataScience2022/Activities/SuperHeroIntro.pdf"> Pooled t-test: </a> Organic and conventional avocados. 
 * Non-Pooled t-test 
 * Wilcoxon Rank Sum test 
 * Paired t-test
 * Wilcoxon sign rank test
 * One Way Anova 
 * 
-___
+
+
 
 
 
