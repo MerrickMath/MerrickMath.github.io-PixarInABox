@@ -3,14 +3,18 @@ Welcome to my University of Calgary Statistics Tutorials Page. Here you can find
 
 ## STAT 217
 ### Comparing Centers
-#### Paramateric
+#### Paramateric Tests 
 * One sample t-test
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/Centers/PooledT.html"> Two Sample t-test (pooled): </a> Organic and conventional avocados
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/Centers/NonPooledT.html"> Two Sample t-test (non-pooled): </a> Penguins of Biscoe and Dream Island 
-* One-way ANOVA
-#### Non-parametric
-* Wilcoxon rank sum test 
 * Paired-t test 
+* One-way ANOVA
+#### Non-parametric Tests 
+* Wilcoxon rank-sum test 
+* WIlcoxon sign-rank test
+* Kruskal Wallis one-way ANOVA 
+
+
 
 
 
