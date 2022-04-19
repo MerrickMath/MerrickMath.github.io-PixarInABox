@@ -9,6 +9,7 @@ Welcome to my University of Calgary Statistics Tutorials Page. Here you can find
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/Centers/NonPooledT.html"> Two Sample t-test (non-pooled): </a> Penguins of Biscoe and Dream Island 
 * Paired-t test 
 * One-way ANOVA
+
 #### Non-parametric Tests 
 * Wilcoxon rank-sum test 
 * WIlcoxon sign-rank test
