@@ -9,7 +9,6 @@ Welcome to my University of Calgary Statistics Tutorials Page. Here you can find
 * Paired t-test
 * Wilcoxon sign rank test
 * One Way Anova 
-* 
 
 #### Inference for Categorical Data
 * One sample z-test for $`p`$
