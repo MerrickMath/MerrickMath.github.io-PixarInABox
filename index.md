@@ -7,8 +7,8 @@ Welcome to my University of Calgary Statistics Tutorials Page. Here you can find
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/Centers/NonPooledT.html"> Two Sample t-test (non-pooled): </a> Organic and conventional avocados. 
 
 #### Inference for Categorical Data
-* One sample z-test for $`p`$
-* Two sample z-test for $`p_1-p_2`$
+* One sample z-test for `$p$`
+* Two sample z-test for a difference in proportions
 
 
 
