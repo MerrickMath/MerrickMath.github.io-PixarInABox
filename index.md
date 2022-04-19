@@ -5,7 +5,7 @@ Welcome to my University of Calgary Statistics Tutorials Page. Here you can find
 #### Comparing Centers
 * One sample t-test
 * <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/Centers/PooledT.html"> Two Sample t-test (pooled): </a> Organic and conventional avocados
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/Centers/NonPooledT.html"> Two Sample t-test (non-pooled): Penguins </a> 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/Centers/NonPooledT.html"> Two Sample t-test (non-pooled): </a> Penguins of Biscoe and Dream Island 
 * Wilcoxon rank sum test 
 * Paired-t test 
 * 
