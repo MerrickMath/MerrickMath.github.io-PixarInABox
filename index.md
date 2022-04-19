@@ -3,7 +3,7 @@ Welcome to my University of Calgary Statistics Tutorials Page. Here you can find
 
 ### STAT 217
 #### Comparing Centers
-* <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/PooledTtest.html"> Pooled t-test: </a> Organic and conventional avocados. 
+* <a href="https://merrickmath.github.io/MerrickMath.github.io-UofCStats/PooledT.html"> Pooled t-test: </a> Organic and conventional avocados. 
 * Non-Pooled t-test 
 * Wilcoxon Rank Sum test 
 * Paired t-test
